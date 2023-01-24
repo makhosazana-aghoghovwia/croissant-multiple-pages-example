@@ -1,0 +1,27 @@
+body {
+  background: beige;
+}
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  display: block;
+}
+footer a {
+  margin: 0 10 px;
+  color: blueviolet;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+p {
+  text-align: center;
+}
